@@ -48,7 +48,7 @@ MoodMentor addresses this challenge by combining state-of-the-art transformer mo
      - Positive
      - Negative
      - Neutral
-     - Compound Emotion Scores
+      
 
 4. **Recommendation Generation**
    - Based on the detected emotional profile, MoodMentor provides personalized well-being recommendations, including mindfulness practices, stress-management techniques, motivational suggestions, and self-care activities.
