@@ -2,6 +2,14 @@
 
 ## Project Objective
 This project is an AI-powered Employee Wellness Management System that helps users register, log in, upload files, and analyze employee wellness data using Streamlit, PostgreSQL (Neon DB), and JWT authentication.
+  
+# MoodMentor
+
+## Overview
+
+In an era of increasing mental health awareness, individuals and organizations face growing challenges in monitoring and supporting emotional well-being at scale. Everyday written communication—including journal entries, chat messages, emails, and social media posts—contains valuable emotional cues that can provide meaningful insights into a person's mental state. However, accurately interpreting these emotional nuances from unstructured text requires advanced Natural Language Processing (NLP) techniques.
+
+**MoodMentor** is an AI-powered emotion analysis and well-being recommendation platform that bridges this gap by analyzing the emotional tone of written text and providing personalized, context-aware wellness suggestions. The system leverages transformer-based language models to identify emotional patterns and generate actionable recommendations that promote emotional well-being.
 
 ## Technologies Used
 - Python
@@ -11,14 +19,6 @@ This project is an AI-powered Employee Wellness Management System that helps use
 - Google Colab
 - Hugging Face Spaces
 - ngrok
-  
-# MoodMentor
-
-## Overview
-
-In an era of increasing mental health awareness, individuals and organizations face growing challenges in monitoring and supporting emotional well-being at scale. Everyday written communication—including journal entries, chat messages, emails, and social media posts—contains valuable emotional cues that can provide meaningful insights into a person's mental state. However, accurately interpreting these emotional nuances from unstructured text requires advanced Natural Language Processing (NLP) techniques.
-
-**MoodMentor** is an AI-powered emotion analysis and well-being recommendation platform that bridges this gap by analyzing the emotional tone of written text and providing personalized, context-aware wellness suggestions. The system leverages transformer-based language models to identify emotional patterns and generate actionable recommendations that promote emotional well-being.
 
 ## Problem Statement
 
