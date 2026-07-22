@@ -218,12 +218,21 @@ Possible emotions:
 ---
 
 ## 📥 Sample Input
-
----
+🌸 દરેક દિવસ નવી તક લઈને આવે છે, ✨ તેને ઉત્સાહથી સ્વીકારો.
 
 ## 📤 Sample Output
 
+Detected Language → Gujarati (gu)
 
+Extracted Emoji → 🌸 ✨
+
+Tokens → Tokenized Gujarati words
+
+Final Preprocessed Text → Cleaned text after removing stopwords/punctuation
+
+Sentiment → Positive
+
+Emotion → Joy
 
 ## 📊 Observations
 
@@ -240,28 +249,20 @@ Possible emotions:
 
 ---
 
-## 📂 Project Structure
-
-Milestone 2
-
-├── NLP_Preprocessing_Pipeline.ipynb
-├── README.md
-└── Screenshots/
-
-```
----
-
 ## 🎯 Future Enhancements
 
-Sentiment Analysis
+Sentiment Analysis 
+
 Emotion Classification
+
 Employee Feedback Analysis
+
 Mental Wellness Prediction
+
 AI-powered Employee Wellness Dashboard
 
 ---
 ## Conclusion
-
 This milestone successfully implements a complete multilingual NLP preprocessing pipeline capable of transforming raw employee feedback into structured text suitable for sentiment and emotion analysis.
 
 
