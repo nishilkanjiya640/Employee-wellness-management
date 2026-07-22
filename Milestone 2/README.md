@@ -14,7 +14,7 @@
 
 </div>
 
-# 🌍 Multilingual NLP Text Preprocessing Pipeline
+# 🌍  NLP Text Preprocessing Pipeline
 
 ## 📌 Project Objective
 
