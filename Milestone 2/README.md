@@ -241,11 +241,12 @@ Possible emotions:
 ---
 
 ## 📂 Project Structure
+
 Milestone2/
 ├── NLP_Preprocessing_Pipeline.ipynb
 ├── README.md
 └── Screenshots/
-`
+
 ```
 ---
 
