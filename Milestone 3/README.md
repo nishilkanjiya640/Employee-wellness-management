@@ -215,24 +215,18 @@ I feel motivated after today's meeting.
 
 # 📤 Sample Output
 
-
-{
     "language": "English",
     "translated_text": "I feel motivated after today's meeting.",
     "sentiment": "Positive",
     "compound_score": 0.87,
     "emotion": "Joy",
     "confidence": 94.6
-}
+
 ```
-
----
-
 # 📈 Observations
 
 - Supports multilingual employee feedback.
 - Sentiment (VADER) and emotion (BERT) can disagree on short/ambiguous text since they measure different things — this is expected.
 - Shorter entries tend to give lower confidence scores.
 
--
 
