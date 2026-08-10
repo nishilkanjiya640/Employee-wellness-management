@@ -1,0 +1,21 @@
+ MODELS USED in Employee Wellness Management & Analytics (Mood Mentor)
+======================================================================
+
+* langdetect
+   Detects the language of a journal entry.
+
+* Google Translate (deep-translator)
+   Translates non-English entries to English for analysis.
+
+*spaCy 
+   Multilingual sentence splitting, tokenization, lemmatization.
+
+* VADER (vaderSentiment)
+   Rule-based sentiment scoring: Positive / Negative / Neutral.
+
+* BERT — bhadresh-savani/bert-base-go-emotion
+   Transformer emotion classifier; mapped to the app's 6 emotions
+   (Happy, Sad, Stress, Angry, Fear, Neutral).
+
+* Qwen2.5-0.5B-Instruct (local)
+   Powers the Wellness Chat conversational assistant.
